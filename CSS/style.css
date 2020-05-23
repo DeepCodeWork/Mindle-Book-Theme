@@ -1,0 +1,35 @@
+
+.home-head-section{
+    margin-top: 50px;
+    position: relative;
+    background: url("../Images/mountains.jpg");
+    min-height: 700px;
+}
+
+
+.home-head-section #light-overlay{
+    position: absolute;
+    background-color:rgba(50, 146, 166, 0.4);
+    min-height: 700px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#authors img {
+    margin-top: -50px;
+}
+
+#authors .card:hover{
+    background-color: #3292a6;
+    color: white;
+}
+
+#authors .fa{
+    color: white;
+}
+
+
+
+
